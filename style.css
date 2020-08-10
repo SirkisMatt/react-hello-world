@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+hr {
+    width: 80%;
+    color: rgb(168, 167, 164);
+}
+
+.gap-sm {
+    padding: 20px;
+    width: auto;
+}
+
+ul {
+    list-style-position: inside;
+}
